@@ -24,10 +24,11 @@ public class Person {
 
             private String name;
             private int age;
-	private Address address;
+	    private Address address;
             …
 
 } 
+
 public class Address {
 
         private String country;
