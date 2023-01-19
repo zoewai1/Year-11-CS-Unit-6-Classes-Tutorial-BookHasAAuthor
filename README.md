@@ -22,9 +22,9 @@ Composition means to design a class that is composed of already defined classes.
 
 public class Person {
 
-     private String name;
-     private int age;
-     private Address address;
+        private String name;
+        private int age;
+        private Address address;
             …
 
 } 
