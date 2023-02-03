@@ -88,4 +88,6 @@ Let's write the Book class.
 ![image](https://user-images.githubusercontent.com/57818506/213328594-c926aff6-1197-4629-b274-01ece0d6d90e.png)
 
 Write a class called Book. The Book class must conform to the above UML description.
+Name: Zoe 
 
+Partner: Anna 
